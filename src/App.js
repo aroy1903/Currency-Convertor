@@ -15,7 +15,7 @@ function App() {
 
   const getData = () => {
     const myHeaders = new Headers();
-    myHeaders.append('apikey', 'qj5ai7pPgXtdVWzDdieGk26Uvn5DPpdO');
+    myHeaders.append('apikey', 'apikey');
 
     const requestOptions = {
       method: 'GET',
